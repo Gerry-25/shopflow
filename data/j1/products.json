@@ -1,0 +1,7605 @@
+[
+  {
+    "product_id": "P00001",
+    "name": "Apple Tablette Métier",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 1857.75,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 651
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00002",
+    "name": "Logitech Tablette Miser",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 1482.37,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 463
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00003",
+    "name": "Samsung Accessoire Lumière",
+    "category": "Accessoire",
+    "brand": "Logitech",
+    "price": 509.11,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 982
+    },
+    "tags": [
+      "premium",
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00004",
+    "name": "Xiaomi Laptop Chemin",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 705.51,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 498
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00005",
+    "name": "Apple Écran Loi",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 2121.02,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 3385
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00006",
+    "name": "Bose Tablette Bleu",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 325.19,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2341
+    },
+    "tags": [
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00007",
+    "name": "Lenovo Accessoire Peine",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 128.87,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 406
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00008",
+    "name": "Dell Écran Fait",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 1594.68,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 1596
+    },
+    "tags": [
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00009",
+    "name": "Apple Tablette Poser",
+    "category": "Tablette",
+    "brand": "Sony",
+    "price": 1342.34,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1973
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00010",
+    "name": "Samsung Casque Ouvert",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 2057.18,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 1176
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00011",
+    "name": "HP Laptop Davantage",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "price": 1643.77,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1959
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00012",
+    "name": "Lenovo Laptop Étage",
+    "category": "Laptop",
+    "brand": "Logitech",
+    "price": 1354.36,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2470
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00013",
+    "name": "Bose Accessoire Travailler",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 1893.12,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2650
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00014",
+    "name": "Apple Accessoire Fonder",
+    "category": "Accessoire",
+    "brand": "Xiaomi",
+    "price": 963.32,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1109
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00015",
+    "name": "Apple Tablette Éclater",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 1880.93,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 1282
+    },
+    "tags": [
+      "new",
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00016",
+    "name": "Dell Tablette Valoir",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 1908.48,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2641
+    },
+    "tags": [
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00017",
+    "name": "HP Laptop Obtenir",
+    "category": "Laptop",
+    "brand": "Sony",
+    "price": 1355.36,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2533
+    },
+    "tags": [
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00018",
+    "name": "HP Smartphone Mer",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 610.04,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 402
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00019",
+    "name": "Bose Tablette Sortir",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 2445.29,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 605
+    },
+    "tags": [
+      "premium",
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00020",
+    "name": "Xiaomi Accessoire Ni",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 2323.35,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1356
+    },
+    "tags": [
+      "bestseller",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00021",
+    "name": "Apple Écran Forcer",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 573.37,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2489
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00022",
+    "name": "Samsung Laptop Oreille",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 1773.98,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 356
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00023",
+    "name": "Apple Casque Somme",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 606.44,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2288
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00024",
+    "name": "Bose Accessoire Qualité",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 1964.78,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 466
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00025",
+    "name": "Xiaomi Tablette Tirer",
+    "category": "Tablette",
+    "brand": "HP",
+    "price": 1067.59,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 301
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00026",
+    "name": "Xiaomi Smartphone Titre",
+    "category": "Smartphone",
+    "brand": "HP",
+    "price": 2004.47,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 864
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00027",
+    "name": "Sony Écran Froid",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 470.97,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 388
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00028",
+    "name": "Logitech Tablette Soutenir",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 2422.96,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1744
+    },
+    "tags": [
+      "eco",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00029",
+    "name": "Sony Smartphone Occuper",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 20.36,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 3291
+    },
+    "tags": [
+      "bestseller",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00030",
+    "name": "Logitech Tablette Intérêt",
+    "category": "Tablette",
+    "brand": "Bose",
+    "price": 399.67,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 319
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00031",
+    "name": "HP Tablette Tenir",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 139.6,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2255
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00032",
+    "name": "Apple Accessoire Acheter",
+    "category": "Accessoire",
+    "brand": "Sony",
+    "price": 185.28,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 1043
+    },
+    "tags": [
+      "promo",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00033",
+    "name": "Samsung Accessoire Émotion",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 1056.77,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2221
+    },
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00034",
+    "name": "HP Tablette Essayer",
+    "category": "Tablette",
+    "brand": "Lenovo",
+    "price": 675.05,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 2723
+    },
+    "tags": [
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00035",
+    "name": "Samsung Smartphone Libre",
+    "category": "Smartphone",
+    "brand": "Bose",
+    "price": 1558.58,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 380
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00036",
+    "name": "Sony Casque Allumer",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 2203.95,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1247
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00037",
+    "name": "Dell Accessoire Faux",
+    "category": "Accessoire",
+    "brand": "Logitech",
+    "price": 34.44,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2797
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00038",
+    "name": "Dell Laptop Mariage",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 2225.94,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1195
+    },
+    "tags": [
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00039",
+    "name": "HP Tablette Présent",
+    "category": "Tablette",
+    "brand": "Lenovo",
+    "price": 1723.43,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2081
+    },
+    "tags": [
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00040",
+    "name": "Xiaomi Tablette Vieux",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 124.56,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2689
+    },
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00041",
+    "name": "Xiaomi Accessoire Aujourd'hui",
+    "category": "Accessoire",
+    "brand": "Logitech",
+    "price": 39.03,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 690
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00042",
+    "name": "Logitech Casque Vivre",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 1083.02,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1573
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00043",
+    "name": "Lenovo Casque Charge",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 1672.33,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1744
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00044",
+    "name": "Sony Laptop Hors",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 76.59,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 3365
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00045",
+    "name": "Apple Laptop Vêtement",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 2182.33,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 897
+    },
+    "tags": [
+      "bestseller",
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00046",
+    "name": "Samsung Laptop Consulter",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "price": 1005.19,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 3247
+    },
+    "tags": [
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00047",
+    "name": "Logitech Tablette Pareil",
+    "category": "Tablette",
+    "brand": "HP",
+    "price": 2349.0,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 811
+    },
+    "tags": [
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00048",
+    "name": "Xiaomi Accessoire Montagne",
+    "category": "Accessoire",
+    "brand": "HP",
+    "price": 1825.43,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 2563
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00049",
+    "name": "Lenovo Écran Jusque",
+    "category": "Écran",
+    "brand": "Dell",
+    "price": 125.3,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2209
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00050",
+    "name": "Apple Écran Arriver",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 1563.54,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 1310
+    },
+    "tags": [
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00051",
+    "name": "Dell Écran Songer",
+    "category": "Écran",
+    "brand": "Logitech",
+    "price": 331.31,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1632
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00052",
+    "name": "Dell Accessoire Mer",
+    "category": "Accessoire",
+    "brand": "Xiaomi",
+    "price": 1376.62,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1255
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00053",
+    "name": "HP Accessoire Arbre",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 1112.84,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 2018
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00054",
+    "name": "Logitech Casque Étendue",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 247.07,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1351
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00055",
+    "name": "Samsung Laptop Arrière",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "price": 623.43,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 3227
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00056",
+    "name": "Xiaomi Écran Partout",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 1800.09,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1716
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00057",
+    "name": "Samsung Tablette Lit",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 1949.37,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 3373
+    },
+    "tags": [
+      "promo",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00058",
+    "name": "Sony Écran Vie",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 1673.93,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1379
+    },
+    "tags": [
+      "premium",
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00059",
+    "name": "Sony Écran Premier",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 1133.42,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1215
+    },
+    "tags": [
+      "new",
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00060",
+    "name": "Dell Smartphone Jeune",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 690.21,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 410
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00061",
+    "name": "Xiaomi Laptop Mort",
+    "category": "Laptop",
+    "brand": "Sony",
+    "price": 1770.45,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1749
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00062",
+    "name": "Samsung Écran Seul",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 2084.73,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2928
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00063",
+    "name": "Xiaomi Accessoire Tout",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 29.65,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 3166
+    },
+    "tags": [
+      "eco",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00064",
+    "name": "Dell Laptop Droit",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 1221.82,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2819
+    },
+    "tags": [
+      "new",
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00065",
+    "name": "Logitech Accessoire Vif",
+    "category": "Accessoire",
+    "brand": "Samsung",
+    "price": 2268.72,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2795
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00066",
+    "name": "Xiaomi Smartphone Sommeil",
+    "category": "Smartphone",
+    "brand": "Sony",
+    "price": 2169.13,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1145
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00067",
+    "name": "HP Casque Sur",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 706.47,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 3499
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00068",
+    "name": "Samsung Écran Nature",
+    "category": "Écran",
+    "brand": "Logitech",
+    "price": 144.43,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2742
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00069",
+    "name": "Samsung Tablette Envelopper",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 2374.79,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2624
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00070",
+    "name": "Bose Laptop Conscience",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 1416.46,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2945
+    },
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00071",
+    "name": "Apple Accessoire Depuis",
+    "category": "Accessoire",
+    "brand": "Sony",
+    "price": 2412.33,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 185
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00072",
+    "name": "Lenovo Écran Saisir",
+    "category": "Écran",
+    "brand": "Apple",
+    "price": 1486.36,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2935
+    },
+    "tags": [
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00073",
+    "name": "Samsung Accessoire Sonner",
+    "category": "Accessoire",
+    "brand": "HP",
+    "price": 1338.87,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2152
+    },
+    "tags": [
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00074",
+    "name": "Apple Écran Comment",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 2402.56,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 706
+    },
+    "tags": [
+      "new",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00075",
+    "name": "Bose Accessoire Seul",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 1097.4,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1400
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00076",
+    "name": "Bose Casque Face",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 1879.93,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2816
+    },
+    "tags": [
+      "bestseller",
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00077",
+    "name": "Sony Casque Spectacle",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 542.12,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 1225
+    },
+    "tags": [
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00078",
+    "name": "Lenovo Accessoire Intérieur",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 614.77,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2354
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00079",
+    "name": "Bose Tablette Vêtement",
+    "category": "Tablette",
+    "brand": "Bose",
+    "price": 1985.44,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 987
+    },
+    "tags": [
+      "new",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00080",
+    "name": "HP Accessoire Poète",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 1390.38,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 3135
+    },
+    "tags": [
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00081",
+    "name": "Dell Casque Malade",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 587.89,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 569
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00082",
+    "name": "Bose Laptop Épaule",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 1815.59,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1239
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00083",
+    "name": "Dell Laptop Tel",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "price": 911.79,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2980
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00084",
+    "name": "Samsung Smartphone Exiger",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 740.96,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 3163
+    },
+    "tags": [
+      "promo",
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00085",
+    "name": "Bose Casque Empire",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 1109.56,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1114
+    },
+    "tags": [
+      "promo",
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00086",
+    "name": "Apple Écran Étonner",
+    "category": "Écran",
+    "brand": "Samsung",
+    "price": 392.04,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 428
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00087",
+    "name": "Xiaomi Accessoire Secret",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 1942.6,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1893
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00088",
+    "name": "Samsung Casque Rond",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 2369.76,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 944
+    },
+    "tags": [
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00089",
+    "name": "Sony Laptop Pouvoir",
+    "category": "Laptop",
+    "brand": "Logitech",
+    "price": 201.54,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1925
+    },
+    "tags": [
+      "bestseller",
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00090",
+    "name": "Dell Casque Blanc",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 191.88,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 3306
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00091",
+    "name": "Logitech Smartphone Dernier",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 1624.37,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 372
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00092",
+    "name": "Dell Laptop Été",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 1106.3,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1325
+    },
+    "tags": [
+      "bestseller",
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00093",
+    "name": "Samsung Smartphone Nation",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 1840.32,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 185
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00094",
+    "name": "Samsung Laptop En",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 1446.97,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2205
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00095",
+    "name": "Bose Écran Arrivée",
+    "category": "Écran",
+    "brand": "Apple",
+    "price": 1182.98,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1395
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00096",
+    "name": "HP Laptop Oncle",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 1738.78,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1720
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00097",
+    "name": "Apple Écran Colère",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 642.21,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 2187
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00098",
+    "name": "Logitech Tablette Servir",
+    "category": "Tablette",
+    "brand": "Bose",
+    "price": 1041.92,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1561
+    },
+    "tags": [
+      "eco",
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00099",
+    "name": "Logitech Casque Enfance",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2320.27,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2065
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00100",
+    "name": "Lenovo Smartphone Papier",
+    "category": "Smartphone",
+    "brand": "Sony",
+    "price": 787.21,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 1751
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00101",
+    "name": "Apple Laptop Tracer",
+    "category": "Laptop",
+    "brand": "Bose",
+    "price": 2368.45,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 3015
+    },
+    "tags": [
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00102",
+    "name": "Bose Écran Perdu",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 620.67,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1651
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00103",
+    "name": "Sony Accessoire Taire",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 701.47,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 3306
+    },
+    "tags": [
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00104",
+    "name": "Dell Tablette Bas",
+    "category": "Tablette",
+    "brand": "Bose",
+    "price": 2165.17,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2063
+    },
+    "tags": [
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00105",
+    "name": "HP Écran Mieux",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 2452.22,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1648
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00106",
+    "name": "HP Smartphone Combien",
+    "category": "Smartphone",
+    "brand": "Bose",
+    "price": 1767.49,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2798
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00107",
+    "name": "Sony Smartphone Silencieux",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 2413.9,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 1883
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00108",
+    "name": "Bose Accessoire Présent",
+    "category": "Accessoire",
+    "brand": "Samsung",
+    "price": 1810.27,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 712
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00109",
+    "name": "Dell Écran Placer",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 1563.8,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 408
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00110",
+    "name": "Bose Casque Race",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 104.21,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2665
+    },
+    "tags": [
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00111",
+    "name": "Apple Écran Auprès",
+    "category": "Écran",
+    "brand": "Apple",
+    "price": 1117.54,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 268
+    },
+    "tags": [
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00112",
+    "name": "HP Casque Sur",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 376.74,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2398
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00113",
+    "name": "Apple Laptop Cacher",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 1554.98,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2468
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00114",
+    "name": "Dell Écran Règle",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 649.49,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1258
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00115",
+    "name": "HP Écran Pensée",
+    "category": "Écran",
+    "brand": "Dell",
+    "price": 1602.76,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1104
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00116",
+    "name": "Apple Écran Troisième",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 962.69,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1291
+    },
+    "tags": [
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00117",
+    "name": "Samsung Casque Besoin",
+    "category": "Casque",
+    "brand": "Samsung",
+    "price": 2277.88,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 3257
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00118",
+    "name": "Lenovo Casque Muet",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 1557.91,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 477
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00119",
+    "name": "Bose Casque Masse",
+    "category": "Casque",
+    "brand": "Samsung",
+    "price": 1455.24,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1288
+    },
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00120",
+    "name": "Sony Laptop Terre",
+    "category": "Laptop",
+    "brand": "Logitech",
+    "price": 2193.0,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2135
+    },
+    "tags": [
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00121",
+    "name": "Dell Écran Rue",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 2013.52,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 656
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00122",
+    "name": "HP Accessoire Retourner",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 1979.84,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 2277
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00123",
+    "name": "HP Écran Douze",
+    "category": "Écran",
+    "brand": "Dell",
+    "price": 1467.63,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2844
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00124",
+    "name": "Logitech Smartphone Faveur",
+    "category": "Smartphone",
+    "brand": "HP",
+    "price": 2289.41,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 338
+    },
+    "tags": [
+      "bestseller",
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00125",
+    "name": "Samsung Laptop Témoin",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "price": 771.35,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 478
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00126",
+    "name": "Xiaomi Laptop Ce",
+    "category": "Laptop",
+    "brand": "Bose",
+    "price": 936.96,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2485
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00127",
+    "name": "Apple Tablette Avant",
+    "category": "Tablette",
+    "brand": "Bose",
+    "price": 1544.9,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2907
+    },
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00128",
+    "name": "Lenovo Écran Impression",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 261.9,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2721
+    },
+    "tags": [
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00129",
+    "name": "Lenovo Casque Jardin",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 2373.29,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2794
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00130",
+    "name": "Samsung Smartphone Mari",
+    "category": "Smartphone",
+    "brand": "HP",
+    "price": 620.27,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 920
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00131",
+    "name": "Lenovo Accessoire Poitrine",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 2035.44,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 3251
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00132",
+    "name": "Dell Smartphone Troubler",
+    "category": "Smartphone",
+    "brand": "Sony",
+    "price": 2469.01,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 3350
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00133",
+    "name": "Samsung Tablette Défendre",
+    "category": "Tablette",
+    "brand": "Sony",
+    "price": 51.93,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1406
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00134",
+    "name": "Dell Laptop Famille",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "price": 329.99,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 545
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00135",
+    "name": "Bose Écran Condamner",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 1290.4,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 2143
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00136",
+    "name": "Logitech Smartphone Parmi",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 1153.24,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2041
+    },
+    "tags": [
+      "eco",
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00137",
+    "name": "Bose Tablette Fille",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 2249.68,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 687
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00138",
+    "name": "Dell Laptop Connaître",
+    "category": "Laptop",
+    "brand": "Logitech",
+    "price": 1784.7,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2253
+    },
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00139",
+    "name": "Apple Smartphone Armée",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 1806.29,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1929
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00140",
+    "name": "Bose Casque Supposer",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 1048.73,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1828
+    },
+    "tags": [
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00141",
+    "name": "Bose Laptop Tempête",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 241.69,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1848
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00142",
+    "name": "HP Tablette Page",
+    "category": "Tablette",
+    "brand": "Sony",
+    "price": 1397.58,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2380
+    },
+    "tags": [
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00143",
+    "name": "Xiaomi Casque Printemps",
+    "category": "Casque",
+    "brand": "Samsung",
+    "price": 2421.47,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1520
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00144",
+    "name": "Logitech Accessoire Garde",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 399.5,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 523
+    },
+    "tags": [
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00145",
+    "name": "Dell Smartphone Désormais",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 2020.95,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2593
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00146",
+    "name": "Dell Accessoire Souvenir",
+    "category": "Accessoire",
+    "brand": "Samsung",
+    "price": 463.33,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 1517
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00147",
+    "name": "Sony Laptop Paysan",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 187.92,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 3136
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00148",
+    "name": "Bose Écran Colon",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 406.16,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1408
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00149",
+    "name": "Sony Smartphone Passion",
+    "category": "Smartphone",
+    "brand": "Sony",
+    "price": 1889.77,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 414
+    },
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00150",
+    "name": "Bose Écran Transformer",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 693.82,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1493
+    },
+    "tags": [
+      "promo",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00151",
+    "name": "Bose Tablette Beau",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 1672.82,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1698
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00152",
+    "name": "Lenovo Smartphone Divers",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 2364.13,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1265
+    },
+    "tags": [
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00153",
+    "name": "Xiaomi Écran Ou",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 336.03,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1022
+    },
+    "tags": [
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00154",
+    "name": "Samsung Tablette Jeune",
+    "category": "Tablette",
+    "brand": "Xiaomi",
+    "price": 61.57,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 2438
+    },
+    "tags": [
+      "premium",
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00155",
+    "name": "Xiaomi Tablette Ministre",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 301.21,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 783
+    },
+    "tags": [
+      "bestseller",
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00156",
+    "name": "Lenovo Smartphone Grand",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 1478.35,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1701
+    },
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00157",
+    "name": "Sony Casque Renoncer",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 1283.55,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 2168
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00158",
+    "name": "Sony Casque Ni",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 270.47,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 790
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00159",
+    "name": "Bose Laptop Ouvert",
+    "category": "Laptop",
+    "brand": "Bose",
+    "price": 1889.8,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2869
+    },
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00160",
+    "name": "Apple Écran Ciel",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 1113.89,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 2502
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00161",
+    "name": "Logitech Casque Falloir",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 786.36,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 313
+    },
+    "tags": [
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00162",
+    "name": "Apple Tablette Encore",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 970.44,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 3323
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00163",
+    "name": "Lenovo Écran Naissance",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 1518.44,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 333
+    },
+    "tags": [
+      "promo",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00164",
+    "name": "Logitech Smartphone Fixe",
+    "category": "Smartphone",
+    "brand": "Sony",
+    "price": 112.27,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2226
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00165",
+    "name": "Dell Casque Queue",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 1030.79,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2528
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00166",
+    "name": "HP Tablette Revoir",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 834.28,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1663
+    },
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00167",
+    "name": "Apple Casque Entre",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2293.11,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2940
+    },
+    "tags": [
+      "new",
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00168",
+    "name": "Xiaomi Accessoire Maître",
+    "category": "Accessoire",
+    "brand": "HP",
+    "price": 2035.76,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2726
+    },
+    "tags": [
+      "premium",
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00169",
+    "name": "Dell Casque Capable",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2378.66,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 866
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00170",
+    "name": "Apple Laptop Pays",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 2113.4,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 3237
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00171",
+    "name": "HP Tablette Hauteur",
+    "category": "Tablette",
+    "brand": "Sony",
+    "price": 1499.16,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 820
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00172",
+    "name": "Xiaomi Smartphone Secours",
+    "category": "Smartphone",
+    "brand": "HP",
+    "price": 1695.76,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2580
+    },
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00173",
+    "name": "Lenovo Accessoire Affirmer",
+    "category": "Accessoire",
+    "brand": "Dell",
+    "price": 2414.51,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 1586
+    },
+    "tags": [
+      "eco",
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00174",
+    "name": "Logitech Accessoire Préférer",
+    "category": "Accessoire",
+    "brand": "Xiaomi",
+    "price": 2416.18,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 646
+    },
+    "tags": [
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00175",
+    "name": "Logitech Casque Prison",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 1782.83,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1247
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00176",
+    "name": "Dell Laptop Soudain",
+    "category": "Laptop",
+    "brand": "Bose",
+    "price": 2264.69,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 455
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00177",
+    "name": "Samsung Casque Plaine",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 147.34,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1045
+    },
+    "tags": [
+      "promo",
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00178",
+    "name": "HP Smartphone Vers",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 2100.35,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 643
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00179",
+    "name": "Bose Casque Agent",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 1900.72,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2600
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00180",
+    "name": "Samsung Smartphone Banc",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 550.9,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 3058
+    },
+    "tags": [
+      "promo",
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00181",
+    "name": "Apple Casque D'abord",
+    "category": "Casque",
+    "brand": "Samsung",
+    "price": 607.52,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 337
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00182",
+    "name": "Logitech Écran L'un",
+    "category": "Écran",
+    "brand": "Samsung",
+    "price": 1585.41,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 3023
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00183",
+    "name": "Samsung Écran Cheval",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 612.8,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2801
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00184",
+    "name": "HP Accessoire Quartier",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 2384.21,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 3301
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00185",
+    "name": "Bose Écran Rencontrer",
+    "category": "Écran",
+    "brand": "Samsung",
+    "price": 1594.64,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 3141
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00186",
+    "name": "Apple Casque Départ",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 614.2,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 3091
+    },
+    "tags": [
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00187",
+    "name": "Logitech Casque Renverser",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 2036.57,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1983
+    },
+    "tags": [
+      "new",
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00188",
+    "name": "Bose Tablette Chose",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 744.2,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 251
+    },
+    "tags": [
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00189",
+    "name": "Bose Accessoire Métier",
+    "category": "Accessoire",
+    "brand": "Dell",
+    "price": 106.0,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1542
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00190",
+    "name": "HP Tablette Attitude",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 324.32,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 1718
+    },
+    "tags": [
+      "eco",
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00191",
+    "name": "Bose Écran Delà",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 2311.91,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 3361
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00192",
+    "name": "Xiaomi Tablette Imaginer",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 1085.06,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1283
+    },
+    "tags": [
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00193",
+    "name": "Dell Casque Étranger",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 1123.1,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2905
+    },
+    "tags": [
+      "bestseller",
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00194",
+    "name": "HP Tablette Épaule",
+    "category": "Tablette",
+    "brand": "Xiaomi",
+    "price": 697.27,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2829
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00195",
+    "name": "Bose Laptop Faire",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "price": 328.68,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1580
+    },
+    "tags": [
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00196",
+    "name": "Sony Accessoire Froid",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 2372.83,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 3205
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00197",
+    "name": "Sony Accessoire Blanc",
+    "category": "Accessoire",
+    "brand": "Logitech",
+    "price": 926.87,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1221
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00198",
+    "name": "Sony Smartphone Clair",
+    "category": "Smartphone",
+    "brand": "Bose",
+    "price": 1301.6,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1152
+    },
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00199",
+    "name": "Dell Accessoire Abattre",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 512.44,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1931
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00200",
+    "name": "HP Smartphone Dépasser",
+    "category": "Smartphone",
+    "brand": "HP",
+    "price": 1778.21,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1269
+    },
+    "tags": [
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00201",
+    "name": "Logitech Casque Derrière",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 316.59,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1049
+    },
+    "tags": [
+      "promo",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00202",
+    "name": "HP Accessoire Arbre",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 2012.1,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2586
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00203",
+    "name": "Dell Smartphone Bord",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 2498.99,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1762
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00204",
+    "name": "Apple Casque Enfant",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 1172.6,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 605
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00205",
+    "name": "Logitech Écran Réserver",
+    "category": "Écran",
+    "brand": "Samsung",
+    "price": 2081.01,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1325
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00206",
+    "name": "Lenovo Casque Consulter",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 2369.5,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 403
+    },
+    "tags": [
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00207",
+    "name": "Dell Laptop Bois",
+    "category": "Laptop",
+    "brand": "Logitech",
+    "price": 247.17,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 2458
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00208",
+    "name": "HP Tablette Muet",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 2065.71,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 266
+    },
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00209",
+    "name": "Samsung Accessoire Angoisse",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 2224.16,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2709
+    },
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00210",
+    "name": "Xiaomi Tablette Sous",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 1142.06,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1880
+    },
+    "tags": [
+      "eco",
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00211",
+    "name": "Sony Casque Revenir",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 2155.79,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1494
+    },
+    "tags": [
+      "new",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00212",
+    "name": "Apple Accessoire Corps",
+    "category": "Accessoire",
+    "brand": "HP",
+    "price": 615.72,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1921
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00213",
+    "name": "Samsung Smartphone Craindre",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 2364.28,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1096
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00214",
+    "name": "HP Accessoire Quart",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 1911.36,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1992
+    },
+    "tags": [
+      "bestseller",
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00215",
+    "name": "Xiaomi Smartphone Signe",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 1151.22,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2469
+    },
+    "tags": [
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00216",
+    "name": "Bose Casque Discussion",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 725.08,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1845
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00217",
+    "name": "HP Tablette Patron",
+    "category": "Tablette",
+    "brand": "Xiaomi",
+    "price": 924.35,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2415
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00218",
+    "name": "Dell Accessoire Abri",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 975.08,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1225
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00219",
+    "name": "Apple Laptop Second",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 942.4,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1577
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00220",
+    "name": "Logitech Accessoire Sonner",
+    "category": "Accessoire",
+    "brand": "Xiaomi",
+    "price": 1257.69,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 641
+    },
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00221",
+    "name": "Logitech Laptop Pointe",
+    "category": "Laptop",
+    "brand": "Sony",
+    "price": 830.0,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 745
+    },
+    "tags": [
+      "premium",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00222",
+    "name": "Logitech Casque Dernier",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 1337.86,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2025
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00223",
+    "name": "HP Casque Ni",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 2450.05,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 3343
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00224",
+    "name": "Bose Accessoire Été",
+    "category": "Accessoire",
+    "brand": "Dell",
+    "price": 2418.17,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1012
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00225",
+    "name": "Bose Accessoire Essuyer",
+    "category": "Accessoire",
+    "brand": "Sony",
+    "price": 1317.72,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 685
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00226",
+    "name": "Apple Accessoire Craindre",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 62.06,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 700
+    },
+    "tags": [
+      "new",
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00227",
+    "name": "Bose Accessoire Respect",
+    "category": "Accessoire",
+    "brand": "Samsung",
+    "price": 1768.85,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2377
+    },
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00228",
+    "name": "Sony Casque Dont",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 2281.63,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1531
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00229",
+    "name": "Lenovo Laptop Endormir",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 1401.85,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 3238
+    },
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00230",
+    "name": "Bose Casque Tout",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 1407.81,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 579
+    },
+    "tags": [
+      "eco",
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00231",
+    "name": "Samsung Casque Autre",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 2388.95,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1891
+    },
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00232",
+    "name": "Logitech Laptop Âgé",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 2333.56,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 527
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00233",
+    "name": "Logitech Smartphone Croix",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 1600.29,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1772
+    },
+    "tags": [
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00234",
+    "name": "Sony Tablette Drôle",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 2411.83,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2754
+    },
+    "tags": [
+      "eco",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00235",
+    "name": "Dell Casque Demi",
+    "category": "Casque",
+    "brand": "Samsung",
+    "price": 2271.22,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 2431
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00236",
+    "name": "Samsung Tablette Recherche",
+    "category": "Tablette",
+    "brand": "Sony",
+    "price": 1053.44,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1706
+    },
+    "tags": [
+      "new",
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00237",
+    "name": "Dell Smartphone Vieillard",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 2322.21,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 1941
+    },
+    "tags": [
+      "new",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00238",
+    "name": "Apple Laptop Ici",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 418.8,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1133
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00239",
+    "name": "HP Tablette Déclarer",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 1425.94,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2582
+    },
+    "tags": [
+      "eco",
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00240",
+    "name": "Apple Écran Commander",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 2454.49,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1096
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00241",
+    "name": "Xiaomi Casque Couche",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 1125.14,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 1316
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00242",
+    "name": "HP Casque Fenêtre",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 169.38,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1336
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00243",
+    "name": "Logitech Tablette Acte",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 1730.37,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 2597
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00244",
+    "name": "Bose Laptop Assez",
+    "category": "Laptop",
+    "brand": "Sony",
+    "price": 1145.62,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1783
+    },
+    "tags": [
+      "premium",
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00245",
+    "name": "Apple Tablette Même",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 1125.17,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2390
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00246",
+    "name": "Logitech Smartphone Convenir",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 517.36,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 753
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00247",
+    "name": "Lenovo Smartphone Confondre",
+    "category": "Smartphone",
+    "brand": "Bose",
+    "price": 240.99,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 3392
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00248",
+    "name": "Sony Écran Feuille",
+    "category": "Écran",
+    "brand": "Logitech",
+    "price": 1047.33,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2368
+    },
+    "tags": [
+      "bestseller",
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00249",
+    "name": "Samsung Casque Certes",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 1452.1,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1491
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00250",
+    "name": "Samsung Accessoire Plusieurs",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 2465.55,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 1255
+    },
+    "tags": [
+      "new",
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00251",
+    "name": "Xiaomi Tablette Grâce",
+    "category": "Tablette",
+    "brand": "HP",
+    "price": 2482.25,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1626
+    },
+    "tags": [
+      "promo",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00252",
+    "name": "Apple Casque Quartier",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2482.22,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 601
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00253",
+    "name": "Dell Smartphone Monde",
+    "category": "Smartphone",
+    "brand": "Bose",
+    "price": 1688.65,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2258
+    },
+    "tags": [
+      "new",
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00254",
+    "name": "Sony Casque Attendre",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 483.37,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 3395
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00255",
+    "name": "Apple Laptop Amour",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 1490.95,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2832
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00256",
+    "name": "Samsung Laptop Mode",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 1105.82,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 3169
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00257",
+    "name": "Logitech Laptop Ferme",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 596.89,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2445
+    },
+    "tags": [
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00258",
+    "name": "Logitech Laptop Satisfaire",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "price": 1042.7,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2360
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00259",
+    "name": "Bose Accessoire Valoir",
+    "category": "Accessoire",
+    "brand": "Samsung",
+    "price": 2431.14,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1385
+    },
+    "tags": [
+      "eco",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00260",
+    "name": "Sony Écran Principe",
+    "category": "Écran",
+    "brand": "Logitech",
+    "price": 1191.69,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2978
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00261",
+    "name": "Logitech Smartphone Près",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 2419.95,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 629
+    },
+    "tags": [
+      "new",
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00262",
+    "name": "Apple Casque Dans",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 2120.13,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 3047
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00263",
+    "name": "Xiaomi Casque Être",
+    "category": "Casque",
+    "brand": "Samsung",
+    "price": 2185.95,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 3046
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00264",
+    "name": "HP Laptop Partie",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 2393.19,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 858
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00265",
+    "name": "Bose Tablette Verser",
+    "category": "Tablette",
+    "brand": "Lenovo",
+    "price": 1743.63,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1060
+    },
+    "tags": [
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00266",
+    "name": "Logitech Écran Oh",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 781.43,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2116
+    },
+    "tags": [
+      "promo",
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00267",
+    "name": "HP Laptop Si",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 1043.62,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 3116
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00268",
+    "name": "Logitech Casque Animal",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 748.55,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1022
+    },
+    "tags": [
+      "premium",
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00269",
+    "name": "HP Accessoire Sueur",
+    "category": "Accessoire",
+    "brand": "Dell",
+    "price": 1911.95,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2708
+    },
+    "tags": [
+      "eco",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00270",
+    "name": "Sony Casque Demeurer",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 1804.98,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2300
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00271",
+    "name": "Samsung Accessoire Satisfaire",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 2363.79,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1769
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00272",
+    "name": "Sony Smartphone Aider",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 558.52,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 327
+    },
+    "tags": [
+      "eco",
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00273",
+    "name": "Logitech Accessoire Dès",
+    "category": "Accessoire",
+    "brand": "Xiaomi",
+    "price": 44.45,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1205
+    },
+    "tags": [
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00274",
+    "name": "Apple Laptop Pencher",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 1318.1,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2618
+    },
+    "tags": [
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00275",
+    "name": "Apple Écran Mode",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 2398.86,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1076
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00276",
+    "name": "Apple Tablette Ruine",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 247.35,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2343
+    },
+    "tags": [
+      "promo",
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00277",
+    "name": "Apple Laptop Voix",
+    "category": "Laptop",
+    "brand": "Bose",
+    "price": 2115.64,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 470
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00278",
+    "name": "Lenovo Laptop Service",
+    "category": "Laptop",
+    "brand": "Bose",
+    "price": 688.67,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 1228
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00279",
+    "name": "HP Laptop Rompre",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "price": 2404.25,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 3161
+    },
+    "tags": [
+      "promo",
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00280",
+    "name": "Lenovo Accessoire Amour",
+    "category": "Accessoire",
+    "brand": "Xiaomi",
+    "price": 1697.43,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1652
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00281",
+    "name": "HP Accessoire Fer",
+    "category": "Accessoire",
+    "brand": "Samsung",
+    "price": 257.75,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1475
+    },
+    "tags": [
+      "bestseller",
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00282",
+    "name": "Bose Casque Herbe",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 581.92,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1848
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00283",
+    "name": "Xiaomi Tablette Aucun",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 1933.84,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 3000
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00284",
+    "name": "Dell Smartphone Trente",
+    "category": "Smartphone",
+    "brand": "Sony",
+    "price": 959.3,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1675
+    },
+    "tags": [
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00285",
+    "name": "Samsung Smartphone Renverser",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 1120.17,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 622
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00286",
+    "name": "Xiaomi Laptop Digne",
+    "category": "Laptop",
+    "brand": "Bose",
+    "price": 1399.11,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 503
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00287",
+    "name": "HP Smartphone Ailleurs",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 246.26,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1657
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00288",
+    "name": "Xiaomi Casque Sueur",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 1951.24,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2422
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00289",
+    "name": "Sony Laptop Demeurer",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 763.31,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 339
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00290",
+    "name": "Xiaomi Casque Oeuvre",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 1218.31,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1110
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00291",
+    "name": "Lenovo Accessoire Sombre",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 280.83,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 1700
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00292",
+    "name": "Bose Casque Conseil",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 1085.08,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1310
+    },
+    "tags": [
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00293",
+    "name": "HP Écran Passé",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 2411.97,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 3090
+    },
+    "tags": [
+      "premium",
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00294",
+    "name": "Dell Écran Relation",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 922.06,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2505
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00295",
+    "name": "Bose Smartphone Dégager",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 1104.56,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 363
+    },
+    "tags": [
+      "eco",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00296",
+    "name": "Lenovo Casque Un",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 1651.78,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 382
+    },
+    "tags": [
+      "premium",
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00297",
+    "name": "Logitech Écran Soirée",
+    "category": "Écran",
+    "brand": "Logitech",
+    "price": 2309.89,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 230
+    },
+    "tags": [
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00298",
+    "name": "Lenovo Smartphone Porter",
+    "category": "Smartphone",
+    "brand": "HP",
+    "price": 428.35,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2386
+    },
+    "tags": [
+      "bestseller",
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00299",
+    "name": "Apple Smartphone Début",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 566.67,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2457
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00300",
+    "name": "Xiaomi Casque Inquiéter",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 1934.27,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2129
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00301",
+    "name": "Bose Smartphone Également",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 749.15,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 3485
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00302",
+    "name": "HP Casque Rire",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 1963.91,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1506
+    },
+    "tags": [
+      "promo",
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00303",
+    "name": "Bose Tablette Qualité",
+    "category": "Tablette",
+    "brand": "HP",
+    "price": 181.93,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 551
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00304",
+    "name": "Apple Casque Discussion",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2325.86,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 794
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00305",
+    "name": "Xiaomi Accessoire Vin",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 591.16,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 835
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00306",
+    "name": "Samsung Écran Port",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 1132.19,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 98
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00307",
+    "name": "Apple Casque Frapper",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 2001.76,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1578
+    },
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00308",
+    "name": "Dell Smartphone Heure",
+    "category": "Smartphone",
+    "brand": "Bose",
+    "price": 1326.37,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1671
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00309",
+    "name": "Bose Casque Engager",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2037.14,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2497
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00310",
+    "name": "Sony Tablette Palais",
+    "category": "Tablette",
+    "brand": "HP",
+    "price": 307.89,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 829
+    },
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00311",
+    "name": "Sony Écran Faux",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 1066.25,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2281
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00312",
+    "name": "Bose Laptop Autrefois",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 363.64,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 2617
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00313",
+    "name": "Samsung Casque Branche",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 354.29,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2150
+    },
+    "tags": [
+      "eco",
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00314",
+    "name": "Bose Tablette Digne",
+    "category": "Tablette",
+    "brand": "Bose",
+    "price": 430.62,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 3339
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00315",
+    "name": "Dell Smartphone Masse",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 1350.96,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2396
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00316",
+    "name": "Dell Smartphone Recevoir",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 2060.86,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 3449
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00317",
+    "name": "Bose Tablette Faveur",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 558.08,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 3094
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00318",
+    "name": "Bose Smartphone Silence",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 881.21,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 560
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00319",
+    "name": "HP Tablette Arracher",
+    "category": "Tablette",
+    "brand": "Xiaomi",
+    "price": 427.46,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 3412
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00320",
+    "name": "HP Accessoire Ramasser",
+    "category": "Accessoire",
+    "brand": "Logitech",
+    "price": 713.5,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1405
+    },
+    "tags": [
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00321",
+    "name": "Apple Accessoire Jeunesse",
+    "category": "Accessoire",
+    "brand": "Sony",
+    "price": 2407.49,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 1215
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00322",
+    "name": "Sony Laptop Nécessaire",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 2073.78,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 662
+    },
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00323",
+    "name": "Apple Écran Fuir",
+    "category": "Écran",
+    "brand": "Apple",
+    "price": 1016.08,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1591
+    },
+    "tags": [
+      "eco",
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00324",
+    "name": "Apple Smartphone Douleur",
+    "category": "Smartphone",
+    "brand": "Bose",
+    "price": 1592.58,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 3339
+    },
+    "tags": [
+      "new",
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00325",
+    "name": "Dell Écran Couleur",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 2073.43,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2447
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00326",
+    "name": "HP Écran Te",
+    "category": "Écran",
+    "brand": "Samsung",
+    "price": 129.17,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 588
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00327",
+    "name": "Samsung Écran Admettre",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 517.76,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1316
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00328",
+    "name": "HP Smartphone Muet",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 219.82,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1703
+    },
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00329",
+    "name": "Apple Tablette Inquiétude",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 17.7,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 623
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00330",
+    "name": "Bose Tablette Sommet",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 35.04,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 1809
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00331",
+    "name": "Lenovo Smartphone Ennemi",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 236.99,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1363
+    },
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00332",
+    "name": "Sony Écran Colère",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 185.0,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2579
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00333",
+    "name": "Lenovo Casque Courir",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2300.94,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1892
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00334",
+    "name": "Sony Smartphone Falloir",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 1480.09,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1838
+    },
+    "tags": [
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00335",
+    "name": "Apple Casque Promettre",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 1390.19,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2568
+    },
+    "tags": [
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00336",
+    "name": "Logitech Laptop Espérer",
+    "category": "Laptop",
+    "brand": "Logitech",
+    "price": 483.79,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2726
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00337",
+    "name": "Bose Laptop Question",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 295.17,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2512
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00338",
+    "name": "Samsung Accessoire Désigner",
+    "category": "Accessoire",
+    "brand": "HP",
+    "price": 2335.8,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2408
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00339",
+    "name": "Samsung Smartphone Parfois",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 49.28,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 327
+    },
+    "tags": [
+      "premium",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00340",
+    "name": "Logitech Tablette Seulement",
+    "category": "Tablette",
+    "brand": "Xiaomi",
+    "price": 1067.58,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2703
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00341",
+    "name": "Dell Smartphone Autant",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 1285.59,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2277
+    },
+    "tags": [
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00342",
+    "name": "Xiaomi Casque Mémoire",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 158.9,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 555
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00343",
+    "name": "Sony Tablette Sourd",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 46.47,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 126
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00344",
+    "name": "Logitech Casque Heure",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 1960.72,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 1603
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00345",
+    "name": "Apple Tablette Grain",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 847.5,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2225
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00346",
+    "name": "Apple Casque Interroger",
+    "category": "Casque",
+    "brand": "Bose",
+    "price": 1146.17,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 2126
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00347",
+    "name": "Dell Laptop Part",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 2237.26,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 3114
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00348",
+    "name": "Samsung Smartphone Espace",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 129.26,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 694
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00349",
+    "name": "Xiaomi Accessoire Falloir",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 814.68,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1390
+    },
+    "tags": [
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00350",
+    "name": "Logitech Smartphone Traverser",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 460.67,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1722
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00351",
+    "name": "Dell Écran Répandre",
+    "category": "Écran",
+    "brand": "Dell",
+    "price": 828.34,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 112
+    },
+    "tags": [
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00352",
+    "name": "Dell Accessoire Imposer",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 1167.86,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 3244
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00353",
+    "name": "Sony Laptop Figurer",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "price": 2332.01,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2298
+    },
+    "tags": [
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00354",
+    "name": "Xiaomi Smartphone Colline",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 273.31,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1799
+    },
+    "tags": [
+      "promo",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00355",
+    "name": "Apple Casque Emmener",
+    "category": "Casque",
+    "brand": "Samsung",
+    "price": 2304.37,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2950
+    },
+    "tags": [
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00356",
+    "name": "Apple Accessoire Content",
+    "category": "Accessoire",
+    "brand": "Logitech",
+    "price": 346.78,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2504
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00357",
+    "name": "Sony Écran Envelopper",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 739.81,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 2950
+    },
+    "tags": [
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00358",
+    "name": "Lenovo Casque On",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 2359.73,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 526
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00359",
+    "name": "Bose Laptop Marche",
+    "category": "Laptop",
+    "brand": "Bose",
+    "price": 795.37,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 1547
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00360",
+    "name": "Bose Casque Bon",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 2133.42,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 3387
+    },
+    "tags": [
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00361",
+    "name": "HP Laptop Nerveux",
+    "category": "Laptop",
+    "brand": "Sony",
+    "price": 241.66,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1703
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00362",
+    "name": "Dell Tablette Deviner",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 2052.92,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1736
+    },
+    "tags": [
+      "premium",
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00363",
+    "name": "Apple Écran Lui",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 316.81,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 615
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00364",
+    "name": "Apple Casque Devant",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 2294.81,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 344
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00365",
+    "name": "Apple Laptop Enfance",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 319.48,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 768
+    },
+    "tags": [
+      "eco",
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00366",
+    "name": "Xiaomi Écran Appuyer",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 894.55,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1226
+    },
+    "tags": [
+      "new",
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00367",
+    "name": "Lenovo Accessoire Tôt",
+    "category": "Accessoire",
+    "brand": "Dell",
+    "price": 1254.75,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 329
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00368",
+    "name": "Xiaomi Casque Très",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 1056.8,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2663
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00369",
+    "name": "HP Écran Religion",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 1368.13,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2396
+    },
+    "tags": [
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00370",
+    "name": "Samsung Laptop Bien",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 1498.83,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 319
+    },
+    "tags": [
+      "premium",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00371",
+    "name": "Sony Laptop Seconde",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 630.92,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2265
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00372",
+    "name": "Xiaomi Laptop Tranquille",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 2338.99,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1048
+    },
+    "tags": [
+      "bestseller",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00373",
+    "name": "HP Tablette Pays",
+    "category": "Tablette",
+    "brand": "Sony",
+    "price": 1414.33,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2300
+    },
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00374",
+    "name": "Apple Smartphone Émotion",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 593.07,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2236
+    },
+    "tags": [
+      "promo",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00375",
+    "name": "Sony Laptop Vaste",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 1796.59,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 169
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00376",
+    "name": "Sony Tablette Divers",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 2118.51,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 1610
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00377",
+    "name": "HP Casque Voilà",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2440.01,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2075
+    },
+    "tags": [
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00378",
+    "name": "Sony Laptop Sueur",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 777.46,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 807
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00379",
+    "name": "Xiaomi Tablette Faire",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 467.47,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 984
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00380",
+    "name": "Sony Écran Situation",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 1867.18,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1388
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00381",
+    "name": "HP Tablette Genre",
+    "category": "Tablette",
+    "brand": "Bose",
+    "price": 43.32,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2919
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00382",
+    "name": "Dell Casque Instant",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 1805.23,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1874
+    },
+    "tags": [
+      "new",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00383",
+    "name": "HP Écran Courage",
+    "category": "Écran",
+    "brand": "Logitech",
+    "price": 947.74,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2746
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00384",
+    "name": "Apple Écran Aide",
+    "category": "Écran",
+    "brand": "Samsung",
+    "price": 747.85,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 508
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00385",
+    "name": "Sony Casque Étude",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 414.85,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 461
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00386",
+    "name": "Samsung Tablette Leur",
+    "category": "Tablette",
+    "brand": "Xiaomi",
+    "price": 2356.97,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1858
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00387",
+    "name": "HP Smartphone Coûter",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 2436.38,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2349
+    },
+    "tags": [
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00388",
+    "name": "Apple Laptop Folie",
+    "category": "Laptop",
+    "brand": "Samsung",
+    "price": 991.36,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 709
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00389",
+    "name": "Samsung Casque Courir",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 232.76,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 897
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00390",
+    "name": "Lenovo Smartphone Tête",
+    "category": "Smartphone",
+    "brand": "Sony",
+    "price": 1600.9,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 553
+    },
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00391",
+    "name": "Dell Écran Banc",
+    "category": "Écran",
+    "brand": "Apple",
+    "price": 1610.04,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 1599
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00392",
+    "name": "Dell Smartphone Lentement",
+    "category": "Smartphone",
+    "brand": "Bose",
+    "price": 1170.67,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2391
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00393",
+    "name": "Apple Laptop Dehors",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 1675.33,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 3178
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00394",
+    "name": "Xiaomi Smartphone Naître",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 1055.3,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2024
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00395",
+    "name": "Apple Casque Vague",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 2258.4,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 2419
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00396",
+    "name": "Sony Écran Poser",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 2430.83,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 254
+    },
+    "tags": [
+      "promo",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00397",
+    "name": "Sony Tablette Droit",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 809.58,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1669
+    },
+    "tags": [
+      "premium",
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00398",
+    "name": "Bose Accessoire Promettre",
+    "category": "Accessoire",
+    "brand": "Samsung",
+    "price": 1969.58,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2220
+    },
+    "tags": [
+      "promo",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00399",
+    "name": "Apple Laptop Te",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 1413.27,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 2273
+    },
+    "tags": [
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00400",
+    "name": "Bose Écran Prier",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 108.1,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 669
+    },
+    "tags": [
+      "promo",
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00401",
+    "name": "Lenovo Tablette Sien",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 1868.19,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 162
+    },
+    "tags": [
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00402",
+    "name": "Bose Casque Âge",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 2431.65,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1310
+    },
+    "tags": [
+      "bestseller",
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00403",
+    "name": "Apple Écran Taille",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 1112.67,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2064
+    },
+    "tags": [
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00404",
+    "name": "Dell Smartphone Part",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 1017.41,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 198
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00405",
+    "name": "Samsung Laptop Manger",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "price": 97.18,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 2966
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00406",
+    "name": "Bose Casque Cinquante",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 1001.4,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 205
+    },
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00407",
+    "name": "Bose Écran Étrange",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 2401.89,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2338
+    },
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00408",
+    "name": "Apple Casque Comme",
+    "category": "Casque",
+    "brand": "Dell",
+    "price": 83.21,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2423
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00409",
+    "name": "Lenovo Tablette Soutenir",
+    "category": "Tablette",
+    "brand": "Lenovo",
+    "price": 683.67,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 162
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00410",
+    "name": "Sony Écran Vide",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 1508.84,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1113
+    },
+    "tags": [
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00411",
+    "name": "HP Écran Regard",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 641.22,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2853
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00412",
+    "name": "HP Accessoire Pitié",
+    "category": "Accessoire",
+    "brand": "Logitech",
+    "price": 1623.65,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1302
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00413",
+    "name": "Apple Écran Visite",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 2471.08,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 1149
+    },
+    "tags": [
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00414",
+    "name": "Lenovo Accessoire Marier",
+    "category": "Accessoire",
+    "brand": "Samsung",
+    "price": 2016.49,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 2785
+    },
+    "tags": [
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00415",
+    "name": "Bose Tablette Ensemble",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 659.67,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1670
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00416",
+    "name": "Lenovo Accessoire Tomber",
+    "category": "Accessoire",
+    "brand": "HP",
+    "price": 1820.48,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 2269
+    },
+    "tags": [
+      "bestseller",
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00417",
+    "name": "Logitech Tablette Tout",
+    "category": "Tablette",
+    "brand": "Sony",
+    "price": 745.05,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 3114
+    },
+    "tags": [
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00418",
+    "name": "HP Tablette Si",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 567.3,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1337
+    },
+    "tags": [
+      "bestseller",
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00419",
+    "name": "Dell Accessoire Inutile",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 2130.27,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2678
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00420",
+    "name": "Lenovo Écran Frère",
+    "category": "Écran",
+    "brand": "Logitech",
+    "price": 312.74,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 1302
+    },
+    "tags": [
+      "promo",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00421",
+    "name": "HP Laptop Assurer",
+    "category": "Laptop",
+    "brand": "Xiaomi",
+    "price": 2468.17,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 1375
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00422",
+    "name": "HP Écran Anglais",
+    "category": "Écran",
+    "brand": "Sony",
+    "price": 793.83,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 1931
+    },
+    "tags": [
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00423",
+    "name": "Sony Accessoire Départ",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 1966.25,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2596
+    },
+    "tags": [
+      "eco",
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00424",
+    "name": "Xiaomi Écran Contre",
+    "category": "Écran",
+    "brand": "Samsung",
+    "price": 108.75,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1608
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00425",
+    "name": "Logitech Casque Acte",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 59.52,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 3084
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00426",
+    "name": "HP Tablette Voiture",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 335.39,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2491
+    },
+    "tags": [
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00427",
+    "name": "Dell Smartphone D'autres",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 1147.98,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2226
+    },
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00428",
+    "name": "Bose Casque Volonté",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 1879.04,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 158
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00429",
+    "name": "Sony Tablette Oh",
+    "category": "Tablette",
+    "brand": "Lenovo",
+    "price": 1839.18,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 772
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00430",
+    "name": "Samsung Casque Pas",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 2193.21,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2632
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00431",
+    "name": "Samsung Accessoire Repas",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 1639.12,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2905
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00432",
+    "name": "Bose Écran Renoncer",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 322.13,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 2954
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00433",
+    "name": "Samsung Tablette Ni",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 1060.87,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 2211
+    },
+    "tags": [
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00434",
+    "name": "Apple Écran Rue",
+    "category": "Écran",
+    "brand": "Logitech",
+    "price": 1801.13,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 546
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00435",
+    "name": "Lenovo Écran Lieu",
+    "category": "Écran",
+    "brand": "Lenovo",
+    "price": 1948.23,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1546
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00436",
+    "name": "Bose Accessoire Charger",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 1725.19,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1040
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00437",
+    "name": "Apple Smartphone Dangereux",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 2090.55,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 448
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00438",
+    "name": "Apple Tablette Plaine",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 1616.18,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1161
+    },
+    "tags": [
+      "promo",
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00439",
+    "name": "Dell Smartphone Abri",
+    "category": "Smartphone",
+    "brand": "HP",
+    "price": 2006.97,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 3105
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00440",
+    "name": "Samsung Smartphone Haut",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 2132.22,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 1544
+    },
+    "tags": [
+      "premium",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00441",
+    "name": "HP Smartphone Politique",
+    "category": "Smartphone",
+    "brand": "HP",
+    "price": 469.43,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1949
+    },
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00442",
+    "name": "Sony Écran Appartement",
+    "category": "Écran",
+    "brand": "Apple",
+    "price": 344.29,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 504
+    },
+    "tags": [
+      "premium",
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00443",
+    "name": "Bose Tablette Vrai",
+    "category": "Tablette",
+    "brand": "Sony",
+    "price": 1534.14,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 198
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00444",
+    "name": "Apple Écran De",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 1110.11,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 2762
+    },
+    "tags": [
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00445",
+    "name": "HP Tablette Plusieurs",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 1314.91,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1852
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00446",
+    "name": "Xiaomi Casque Disposer",
+    "category": "Casque",
+    "brand": "Sony",
+    "price": 2100.0,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 303
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00447",
+    "name": "Sony Tablette Souvenir",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 2124.38,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 386
+    },
+    "tags": [
+      "bestseller",
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00448",
+    "name": "Samsung Casque Amener",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 568.43,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 3426
+    },
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00449",
+    "name": "Bose Écran Un",
+    "category": "Écran",
+    "brand": "Bose",
+    "price": 233.73,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1374
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00450",
+    "name": "Samsung Écran Entretenir",
+    "category": "Écran",
+    "brand": "Apple",
+    "price": 1017.55,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 2329
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00451",
+    "name": "Dell Smartphone Propos",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 1412.4,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 1568
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00452",
+    "name": "Bose Laptop Deviner",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 1406.97,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 2017
+    },
+    "tags": [
+      "eco",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00453",
+    "name": "Lenovo Smartphone Baisser",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 863.27,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2218
+    },
+    "tags": [
+      "promo",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00454",
+    "name": "Bose Laptop Avant",
+    "category": "Laptop",
+    "brand": "Sony",
+    "price": 2057.27,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 1121
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00455",
+    "name": "Xiaomi Smartphone Acte",
+    "category": "Smartphone",
+    "brand": "Lenovo",
+    "price": 1150.76,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 1464
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00456",
+    "name": "Samsung Écran Travail",
+    "category": "Écran",
+    "brand": "Apple",
+    "price": 1933.78,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 24,
+      "weight_g": 2777
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00457",
+    "name": "Logitech Smartphone Arriver",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 1389.77,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2058
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00458",
+    "name": "Sony Laptop Empêcher",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 977.7,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1398
+    },
+    "tags": [
+      "eco",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00459",
+    "name": "HP Écran Saint",
+    "category": "Écran",
+    "brand": "Dell",
+    "price": 1140.32,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1770
+    },
+    "tags": [
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00460",
+    "name": "Logitech Tablette Âgé",
+    "category": "Tablette",
+    "brand": "Lenovo",
+    "price": 514.21,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1270
+    },
+    "tags": [
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00461",
+    "name": "Logitech Accessoire Céder",
+    "category": "Accessoire",
+    "brand": "HP",
+    "price": 1780.23,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 2047
+    },
+    "tags": [
+      "premium",
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00462",
+    "name": "Logitech Smartphone Chiffre",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 77.8,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2825
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00463",
+    "name": "Dell Laptop Bas",
+    "category": "Laptop",
+    "brand": "Sony",
+    "price": 2459.08,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 334
+    },
+    "tags": [
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00464",
+    "name": "Bose Casque Répéter",
+    "category": "Casque",
+    "brand": "Apple",
+    "price": 1546.03,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 3120
+    },
+    "tags": [
+      "new",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00465",
+    "name": "Samsung Tablette Aussitôt",
+    "category": "Tablette",
+    "brand": "Xiaomi",
+    "price": 978.07,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 300
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00466",
+    "name": "Dell Tablette Autorité",
+    "category": "Tablette",
+    "brand": "Lenovo",
+    "price": 1557.1,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 2675
+    },
+    "tags": [
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00467",
+    "name": "Lenovo Tablette Rester",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 1130.31,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 791
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00468",
+    "name": "Samsung Écran Dernier",
+    "category": "Écran",
+    "brand": "Xiaomi",
+    "price": 708.59,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 739
+    },
+    "tags": [
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00469",
+    "name": "Sony Écran Répéter",
+    "category": "Écran",
+    "brand": "Samsung",
+    "price": 396.95,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 288
+    },
+    "tags": [
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00470",
+    "name": "HP Smartphone Demain",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 561.61,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 359
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00471",
+    "name": "Logitech Accessoire Ciel",
+    "category": "Accessoire",
+    "brand": "Xiaomi",
+    "price": 243.48,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2797
+    },
+    "tags": [
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00472",
+    "name": "Lenovo Casque Accent",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 1195.02,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 116
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00473",
+    "name": "HP Tablette Doucement",
+    "category": "Tablette",
+    "brand": "Bose",
+    "price": 612.26,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1078
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00474",
+    "name": "HP Tablette Recommencer",
+    "category": "Tablette",
+    "brand": "Xiaomi",
+    "price": 2291.09,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 1130
+    },
+    "tags": [
+      "promo",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00475",
+    "name": "Logitech Accessoire Quel",
+    "category": "Accessoire",
+    "brand": "Bose",
+    "price": 1224.71,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 868
+    },
+    "tags": [
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00476",
+    "name": "Sony Smartphone Pleurer",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 1340.02,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2825
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00477",
+    "name": "Lenovo Smartphone Prince",
+    "category": "Smartphone",
+    "brand": "Logitech",
+    "price": 2074.44,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 3425
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00478",
+    "name": "Sony Tablette Chef",
+    "category": "Tablette",
+    "brand": "Samsung",
+    "price": 1156.17,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 12,
+      "weight_g": 438
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00479",
+    "name": "Sony Smartphone Intelligence",
+    "category": "Smartphone",
+    "brand": "Dell",
+    "price": 1401.84,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1139
+    },
+    "tags": [
+      "eco",
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00480",
+    "name": "Xiaomi Écran Clair",
+    "category": "Écran",
+    "brand": "HP",
+    "price": 56.97,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 104
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00481",
+    "name": "Samsung Tablette Frère",
+    "category": "Tablette",
+    "brand": "Apple",
+    "price": 903.88,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 1267
+    },
+    "tags": [
+      "premium",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00482",
+    "name": "Bose Casque Chef",
+    "category": "Casque",
+    "brand": "Xiaomi",
+    "price": 996.86,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 24,
+      "weight_g": 720
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00483",
+    "name": "Xiaomi Tablette Pensée",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 748.02,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 24,
+      "weight_g": 2854
+    },
+    "tags": [
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00484",
+    "name": "Samsung Smartphone Près",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 1438.21,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 36,
+      "weight_g": 2322
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00485",
+    "name": "Lenovo Casque Rôle",
+    "category": "Casque",
+    "brand": "HP",
+    "price": 541.17,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 739
+    },
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00486",
+    "name": "Dell Accessoire De",
+    "category": "Accessoire",
+    "brand": "Lenovo",
+    "price": 299.84,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 3156
+    },
+    "tags": [
+      "premium",
+      "promo",
+      "new"
+    ]
+  },
+  {
+    "product_id": "P00487",
+    "name": "Apple Tablette Nouveau",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 259.03,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 24,
+      "weight_g": 1435
+    },
+    "tags": [
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00488",
+    "name": "Dell Smartphone Lourd",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 2251.79,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 1925
+    },
+    "tags": [
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00489",
+    "name": "Sony Tablette Fortune",
+    "category": "Tablette",
+    "brand": "HP",
+    "price": 2022.13,
+    "attributes": {
+      "color": "blue",
+      "warranty_months": 12,
+      "weight_g": 99
+    },
+    "tags": [
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00490",
+    "name": "Xiaomi Tablette Avec",
+    "category": "Tablette",
+    "brand": "Dell",
+    "price": 2102.67,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 36,
+      "weight_g": 3082
+    },
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00491",
+    "name": "HP Écran Bureau",
+    "category": "Écran",
+    "brand": "Dell",
+    "price": 1225.12,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 12,
+      "weight_g": 2724
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00492",
+    "name": "Sony Casque Mesure",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 503.13,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 388
+    },
+    "tags": []
+  },
+  {
+    "product_id": "P00493",
+    "name": "Samsung Accessoire Désert",
+    "category": "Accessoire",
+    "brand": "Xiaomi",
+    "price": 1926.46,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2339
+    },
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00494",
+    "name": "Sony Tablette Fonder",
+    "category": "Tablette",
+    "brand": "HP",
+    "price": 990.36,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 36,
+      "weight_g": 1271
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00495",
+    "name": "Logitech Accessoire Corps",
+    "category": "Accessoire",
+    "brand": "Apple",
+    "price": 1001.01,
+    "attributes": {
+      "color": "red",
+      "warranty_months": 12,
+      "weight_g": 2794
+    },
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "product_id": "P00496",
+    "name": "Sony Tablette Savoir",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 363.82,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 2399
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00497",
+    "name": "Samsung Casque Lettre",
+    "category": "Casque",
+    "brand": "Lenovo",
+    "price": 1907.26,
+    "attributes": {
+      "color": "white",
+      "warranty_months": 12,
+      "weight_g": 1162
+    },
+    "tags": [
+      "new",
+      "promo"
+    ]
+  },
+  {
+    "product_id": "P00498",
+    "name": "Lenovo Tablette Trop",
+    "category": "Tablette",
+    "brand": "Logitech",
+    "price": 2270.7,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 24,
+      "weight_g": 2003
+    },
+    "tags": [
+      "promo",
+      "premium",
+      "bestseller"
+    ]
+  },
+  {
+    "product_id": "P00499",
+    "name": "Apple Casque Loup",
+    "category": "Casque",
+    "brand": "Logitech",
+    "price": 1589.41,
+    "attributes": {
+      "color": "silver",
+      "warranty_months": 36,
+      "weight_g": 1158
+    },
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "product_id": "P00500",
+    "name": "Xiaomi Tablette Lumière",
+    "category": "Tablette",
+    "brand": "HP",
+    "price": 1475.38,
+    "attributes": {
+      "color": "black",
+      "warranty_months": 36,
+      "weight_g": 1110
+    },
+    "tags": [
+      "new",
+      "eco",
+      "premium"
+    ]
+  }
+]
